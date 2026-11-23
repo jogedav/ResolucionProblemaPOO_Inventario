@@ -1,0 +1,11 @@
+build/
+out/
+*.class
+.idea/*
+!.idea/.name
+!.idea/modules.xml
+!.idea/misc.xml
+!.idea/encodings.xml
+!.idea/compiler.xml
+*.iml
+!InventarioPOO.iml
